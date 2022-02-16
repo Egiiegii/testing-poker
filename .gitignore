@@ -1,3 +1,6 @@
+.idea
+
+poker-terminal.iml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
